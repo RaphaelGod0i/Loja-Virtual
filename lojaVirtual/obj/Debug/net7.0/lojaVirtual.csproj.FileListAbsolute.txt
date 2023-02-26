@@ -1,0 +1,15 @@
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\bin\Debug\net7.0\lojaVirtual.exe
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\bin\Debug\net7.0\lojaVirtual.deps.json
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\bin\Debug\net7.0\lojaVirtual.runtimeconfig.json
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\bin\Debug\net7.0\lojaVirtual.dll
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\bin\Debug\net7.0\lojaVirtual.pdb
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.dll
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\refint\lojaVirtual.dll
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.pdb
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\lojaVirtual.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\lojaVirtual\lojaVirtual\obj\Debug\net7.0\ref\lojaVirtual.dll
